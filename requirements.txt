@@ -1,0 +1,3 @@
+viktor==13.8.0
+plotly
+numpy
